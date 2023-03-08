@@ -9,5 +9,5 @@ package fr.insa.coulibaly.testgithub;
  * @author ccorchete01
  */
 public class Classe1 {
-    
+    int idClasse1;
 }
